@@ -6,3 +6,4 @@ The GSR (Gesture Recognition System) is the principal part of project. The GSR b
 Software simulation of the project is done on Tinkercad. 
 ![image](https://user-images.githubusercontent.com/87815926/202502984-6660f5bb-e8be-4930-8a4d-43cecfe198ca.png)
 
+The Glove has a total of 31 combinations ( 1 refers to thumb, 2 - index finger, 3 - middle finger, 4 - ring finger, 5 - pinky finger)
