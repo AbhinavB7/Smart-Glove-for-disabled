@@ -41,3 +41,10 @@ The Glove has a total of 31 combinations ( 1 refers to thumb, 2 - index finger, 
 12345 - Bye
 When no finger is bent "Smart Glove for Disabled" appers
 The above data is assigned to the 31 combinations 
+
+
+
+SMART GLOVE with bluetooth attached
+
+![Smart Glove for disabled](https://user-images.githubusercontent.com/87815926/227033489-a257a6b3-300e-45f4-b462-bfdf7e19df06.png)
+
